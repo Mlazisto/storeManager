@@ -1,0 +1,30 @@
+Country,Code,Product,Cost,Quantity
+Cape Town,CPT12345,Cape 2 Cairo,5500,10
+Zimbabwe,SKU20207,Air Presto,2999,7
+South Korea,SKU66734,Hyperdunk,1899,7
+Israel,SKU79084,Air Foamposite,2430,8
+Australia,SKU57443,Waffle Racer,2700,8
+Vietnam,SKU95000,Air Mag,2000,8
+Columbia,SKU87500,Air Huarache,2683,8
+Uganda,SKU33000,Flyknit Racer,4900,9
+China,SKU93222,Air Stab,1630,10
+Morocco,SKU77744,Challenge Court,1450,11
+Israel,SKU29888,Air Zoom Generation,2680,12
+Canada,SKU68677,Air Max 97,3600,13
+Australia,SKU71827,Zoom Hyperfuse,1400,15
+Hermanus,HER12345,SANSA Floats,3500,15
+France,SKU20394,Eric Koston 1,2322,17
+Vietnam,SKU63221,Blazer,1700,19
+South Africa,SKU44386,Air Max 90,2300,20
+Brazil,SKU44600,Air Jordan 11,3870,24
+Gqeberha,GQEB5432,Gqgebz 45,4000,25
+Egypt,SKU19888,Dunk SB,1500,26
+France,SKU84500,Pegasus,2490,28
+India,SKU38773,Air Max 1,1900,29
+Britain,SKU76000,Kobe 4,3400,32
+Russia,SKU89999,Air Force 1,2000,43
+China,SKU90000,Jordan 1,3200,50
+Angola,ANG98434,Angles 2000,2350,54
+United States,SKU29077,Cortez,970,60
+Pakistan,SKU77999,Air Yeezy 2,4389,67
+Japan,JAP08653,Japs One,6454,90
